@@ -9,6 +9,7 @@ Shaknevich Law Firm is a modern Javascript Site based on React Components and Bo
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Getting Started](#getting-started)
+* [Site Link](#site-link)
 * [Credits](#credits)
 * [License](#license)
 
@@ -67,6 +68,8 @@ _axios.default.post("https://formcarry.com/s/XXXXXX"),
 ```javascript
 googleMapURL: "https://maps.googleapis.com/maps/api/js?key=--YOUR-KEY-GOES-HERE--&libraries=geometry,drawing,places",
 ```
+## Site Link
+The site is running on [Heroku server](https://shakhnevichlaw.herokuapp.com/). Heroku is a platform that enables developers to build, run, and operate applications entirely in the cloud.
 
 ## Credits
 * [Konstantin Savinov](https://github.com/KonstantinSavinov)
