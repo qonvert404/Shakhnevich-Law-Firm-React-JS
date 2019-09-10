@@ -4,7 +4,13 @@
 
 Shaknevich Law Firm is a modern Javascript Site based on React Components and Bootstrap 4 Framework
 
-### Features
+## Table of contents
+* [General info](#general-info)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Getting Started](#getting-started)
+
+## Features
 
 * Bootstrap 4.3+
 * Form to Email Services
@@ -18,6 +24,9 @@ Shaknevich Law Firm is a modern Javascript Site based on React Components and Bo
 * Google Maps
 * Sass(.scss)
 * Heroku
+
+## Screenshots
+![Home Page](https://i.ibb.co/dQz7djS/Screen-Shot-2019-09-10-at-5-04-25-PM.png)
 
 ## Getting Started
 

@@ -239,25 +239,24 @@
                     
                 }
             }
-        .responsiveTrigger{
-            margin-left: 30px;
-                cursor: pointer;
-                display: none;
-                @media (max-width:992px) {
-                    display: block;
-                }
-                span{
-                    width: 20px;
-                    height: 1px;
-                    background: #fff;
-                    display: block;
-                    margin-bottom: 3px;
-                    &:last-child{
-                        margin-bottom: 0;
+            .responsiveTrigger{
+                margin-left: 30px;
+                    cursor: pointer;
+                    display: none;
+                    @media (max-width:992px) {
+                        display: block;
                     }
-                }
+                    span{
+                        width: 20px;
+                        height: 1px;
+                        background: #fff;
+                        display: block;
+                        margin-bottom: 3px;
+                        &:last-child{
+                            margin-bottom: 0;
+                        }
+                    }
             }
         }
-        
     }
 }
