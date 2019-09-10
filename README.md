@@ -9,6 +9,12 @@ Shaknevich Law Firm is a modern Javascript Site based on React Components and Bo
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Getting Started](#getting-started)
+* [Credits](#credits)
+* [License](#license)
+
+## General Info
+
+This site was created for Law, Lawyers or any kind of Law related business or company. It contains custom made pages for Law Firm niche, like practices, attorneys, contacts and etc. Designed on grid system, the site will look sharp on all screens.
 
 ## Features
 
@@ -61,3 +67,11 @@ _axios.default.post("https://formcarry.com/s/XXXXXX"),
 ```javascript
 googleMapURL: "https://maps.googleapis.com/maps/api/js?key=--YOUR-KEY-GOES-HERE--&libraries=geometry,drawing,places",
 ```
+
+## Credits
+* [Konstantin Savinov](https://github.com/KonstantinSavinov)
+* [Yuri Yurchenko](https://github.com/YuriusY)
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
