@@ -1,68 +1,46 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Shakhnevich Law Firm React JS
 
-## Available Scripts
+<img src="https://shakhnevichlaw.herokuapp.com/6b0319b3b1a45f32a10179888d944ea0.png" width="900" height="100">
 
-In the project directory, you can run:
+Shaknevich Law Firm is a modern Javascript Site based on React Components and Bootstrap 4 Framework
 
-### `npm start`
+### Features
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* Bootstrap 4.3+
+* Form to Email Services
+* Redux
+* React Router 4
+* ES6+
+* React Router Dom 5.0.0
+* Webpack
+* Babel
+* Google Fonts
+* Google Maps
+* Sass(.scss)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+### Prerequisites
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [Node and npm](https://www.npmjs.com/get-npm)
 
-### `npm run build`
+### Installing
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Clone this repo, `git clone https://github.com/KonstantinSavinov/Shakhnevich-Law-Firm-React-JS.git `
+2. Go to project's root directory, `cd Shakhnevich-Law-Firm-React-JS`
+3. Run `npm install` to install dependencies
+4. Run `npm start` to start the test application (running on port 8080)
+    
+#### *Optional 
+1. Setup your first [FormCarry](https://formcarry.com/documentation/getting-started) to send forms to email services
+* Copy the form endpoint from your FormCarry account and paste it to `index.js` file that can be found by the path: `src/components/Form/`
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+```javascript
+_axios.default.post("https://formcarry.com/s/XXXXXX"),
+```
+2. To use the [Maps Embed API](https://developers.google.com/maps/documentation/embed/get-api-key) you must have an API key
+* Copy the API key from your Google Cloud Platform Console account and paste it to `index.js` file that can be found by the path: `src/components/GoogleMaps/`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+```javascript
+googleMapURL: "https://maps.googleapis.com/maps/api/js?key=--YOUR-KEY-GOES-HERE--&libraries=geometry,drawing,places",
+```
