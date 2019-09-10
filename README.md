@@ -26,11 +26,10 @@ Shaknevich Law Firm is a modern Javascript Site based on React Components and Bo
 * Heroku
 
 ## Screenshots
-![Home Page](https://i.ibb.co/dQz7djS/Screen-Shot-2019-09-10-at-5-04-25-PM.png)
-![Content](https://i.ibb.co/6Zksv68/Screen-Shot-2019-09-10-at-5-05-23-PM.png)
-![Areas](https://i.ibb.co/L5h3D4M/Screen-Shot-2019-09-10-at-5-05-39-PM.png)
-![Map](https://i.ibb.co/0YTwkWd/Screen-Shot-2019-09-10-at-5-06-02-PM.png)
-![Form](https://i.ibb.co/bWFb9KR/Screen-Shot-2019-09-10-at-5-06-21-PM.png)
+|Home Page|Content|Areas of Practice|
+|:--:|:--:|:--:|
+|![](https://i.ibb.co/dQz7djS/Screen-Shot-2019-09-10-at-5-04-25-PM.png)|![](https://i.ibb.co/6Zksv68/Screen-Shot-2019-09-10-at-5-05-23-PM.png)|![](https://i.ibb.co/L5h3D4M/Screen-Shot-2019-09-10-at-5-05-39-PM.png)|
+
 
 
 ## Getting Started
