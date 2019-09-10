@@ -1,6 +1,6 @@
 # Shakhnevich Law Firm React JS
 
-<img src="https://shakhnevichlaw.herokuapp.com/6b0319b3b1a45f32a10179888d944ea0.png" width="900" height="100">
+<img src="https://i.ibb.co/QYDmM6T/logo.jpg" width="300" height="300">
 
 Shaknevich Law Firm is a modern Javascript Site based on React Components and Bootstrap 4 Framework
 
@@ -17,6 +17,7 @@ Shaknevich Law Firm is a modern Javascript Site based on React Components and Bo
 * Google Fonts
 * Google Maps
 * Sass(.scss)
+* Heroku
 
 ## Getting Started
 
