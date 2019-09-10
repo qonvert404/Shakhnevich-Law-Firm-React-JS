@@ -50,10 +50,10 @@ This site was created for Law, Lawyers or any kind of Law related business or co
 
 ### Installing
 
-1. Clone this repo, `git clone https://github.com/KonstantinSavinov/Shakhnevich-Law-Firm-React-JS.git `
-2. Go to project's root directory, `cd Shakhnevich-Law-Firm-React-JS`
-3. Run `npm install` to install dependencies
-4. Run `npm start` to start the test application (running on port 8080)
+1. Clone this repo, `$ git clone git://github.com/KonstantinSavinov/Shakhnevich-Law-Firm-React-JS.git `
+2. Go to project's root directory, `$ cd Shakhnevich-Law-Firm-React-JS`
+3. Run `$ npm install` to install dependencies
+4. Run `$ npm start` to start the test application (running on port 8080)
     
 #### *Optional 
 1. Setup your first [FormCarry](https://formcarry.com/documentation/getting-started) to send forms to email services
