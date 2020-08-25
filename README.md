@@ -73,7 +73,7 @@ The site is running on [Heroku server](https://shakhnevichlaw.herokuapp.com/). H
 
 ## Credits
 * [Konstantin Savinov](https://github.com/KonstantinSavinov)
-* [Yuri Yurchenko](https://github.com/YuriusY)
+* [George Collins](https://github.com/GCollins994)
 
 ## License
 
